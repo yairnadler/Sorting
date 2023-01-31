@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/jcommon-1.0.21.jar",
+        "src/jfreechart-1.0.17.jar",
+        "src/plotter.jar"
+    ]
+}
